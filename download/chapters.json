@@ -1,0 +1,17 @@
+{
+  "author" : "yamoo9",
+  "chapters" : {
+    "A109b4d" : {
+      "description" : "Firebase는 인증, 실시간 데이터베이스, 스토리지, 호스팅, 클라우드 함수 등 다양한 기능을 제공하는 서비스입니다.",
+      "title" : "Firebase 소개"
+    },
+    "A10jbdt" : {
+      "description" : "Firebase 인증(Authentication) 서비스는 애플리케이션을 이용하는 사용자를 손쉽게 인증하는 다양한 방법을 제공합니다.",
+      "title" : "Firebase 인증 소개"
+    },
+    "A10koi1" : {
+      "description" : "Firebase 실시간 데이터베이스는 복잡하고 번거로운 절차 없이 웹, 모바일 환경에서 데이터에 접근 조작할 수 있는 서비스를 제공합니다.",
+      "title" : "Firebase 데이터베이스 소개"
+    }
+  }
+}
